@@ -1,4 +1,4 @@
-# dojoManager
+# DojoManager
 ## A lightweight app to manage coding dojo organization
 ### Main features (TBC)
 
@@ -7,7 +7,7 @@
   * Time
   * Place
   * Subject
-  *Users who participates
+  * Users who participates
 - Create a user
   * Name
   * Email
